@@ -1,0 +1,52 @@
+Bienvenido a Apple, disfrute de una seleccion de productos criticamente aclamados: 
+
+
+El iPad - la mejor tablet del mundo 
+
+iPad 8: impulsado por un procesador A12, llevatelo por el modico precio de 348.89$
+iPad 10: impulsado por un procesador A14, llevatelo por el modico precio de 579.0$
+iPad Air 4: impulsado por un procesador A14, llevatelo por el modico precio de 716.56$
+iPad Air 5: impulsado por un procesador M1, llevatelo por el modico precio de 969.0$
+iPad Mini 3: impulsado por un procesador A7, llevatelo por el modico precio de 189.89$
+iPad Mini 6: impulsado por un procesador A15, llevatelo por el modico precio de 669.7$
+iPad Pro 3: impulsado por un procesador M1, llevatelo por el modico precio de 1368.99$
+iPad Pro 4: impulsado por un procesador M2, llevatelo por el modico precio de 1429.0$
+
+
+El iPhone - el telefono de los artistas 
+
+iPhone X: impulsado por un procesador A11, llevatelo por el modico precio de 285.2$
+iPhone 11: impulsado por un procesador A13, llevatelo por el modico precio de 453.99$
+iPhone SE: impulsado por un procesador A9, llevatelo por el modico precio de 529.225$
+iPhone 13: impulsado por un procesador A15, llevatelo por el modico precio de 764.45$
+iPhone 14: impulsado por un procesador A16, llevatelo por el modico precio de 1009.0$
+iPhone 14 Pro: impulsado por un procesador A17, llevatelo por el modico precio de 1319.0$
+
+
+MacBook - toda la potencia en un portatil 
+
+MacBook (2006): impulsado por un procesador iCore 2, llevatelo por el modico precio de 150.0$
+MacBook Pro (2016): impulsado por un procesador iCore m5 1.2GHz, llevatelo por el modico precio de 320.5$
+MacBook Air (2018): impulsado por un procesador iCore i5 1.6GHz, llevatelo por el modico precio de 355.95$
+MacBook Pro (2021): impulsado por un procesador M1, llevatelo por el modico precio de 1993.0$
+MacBook Air (2020): impulsado por un procesador M1, llevatelo por el modico precio de 1049.0$
+MacBook Pro (2022): impulsado por un procesador M2, llevatelo por el modico precio de 1443.46$
+MacBook Air (2022): impulsado por un procesador M2, llevatelo por el modico precio de 1359.0$
+
+
+				//---------------------------//
+
+
+Los complementos que mejoraran tu experiencia Apple: 
+
+
+airPods 1st Gen: por tan solo 184.65$
+airPods 2nd Gen: por tan solo 148.99$
+airPods 3rd Gen: por tan solo 198.99$
+iWatch Series 4: por tan solo 306.89$
+iWatch Series 6: por tan solo 459.59$
+iWatch Series 8: por tan solo 538.0$
+Apple Pencil 1: por tan solo 119.0$
+Apple Pencil 2: por tan solo 149.0$
+Magic Mouse: por tan solo 109.0$
+MagSafe: por tan solo 69.0$

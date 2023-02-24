@@ -1,0 +1,7 @@
+MacBook (2006)-150-mc06-iCore 2
+MacBook Pro (2016)-320.50-mp16-iCore m5 1.2GHz
+MacBook Air (2018)-355.95-ma18-iCore i5 1.6GHz
+MacBook Pro (2021)-1993-mp21-M1
+MacBook Air (2020)-1049-ma20-M1
+MacBook Pro (2022)-1443.46-mp22-M2
+MacBook Air (2022)-1359-ma22-M2
